@@ -16,11 +16,10 @@ An end to end, production-ready data engineering pipeline for e-commerce analyti
 - [Architecture](#architecture)
 - [Tech Stack](#tech-stack)
 - [Project Structure](#project-structure)
-- [Key Features](#key-features)
-- [Getting Started](#getting-started)
 - [Data Flow](#data-flow)
-- [Contributing](#contributing)
-- [License](#license)
+- [Key Metrics Generated](#key-metrics-generated)
+- [Data Assets](#data-assets)
+
 
 ---
 
@@ -49,8 +48,8 @@ Raw Data (Sources)
 
 ## 🛠️ Tech Stack
 
-| Component | Technology | Purpose |
-|-----------|-----------|---------|
+| Component | Technology 
+|-----------|-----------
 | **Cloud Platform** | Microsoft Azure
 | **Data Warehouse** | Azure Databricks
 | **Distributed Processing** | PySpark
@@ -97,7 +96,7 @@ ecommerce-data-engineering-project/
 ## 📊 Data Flow
 
 ```
-![alt text](image.png)
+![Data Flow Diagram](Images/Master_Workflow.png.png)
 
 ```
 
@@ -105,7 +104,7 @@ ecommerce-data-engineering-project/
 
 ## 📈 Key Metrics Generated
 
-
+![Data Flow Diagram](Images/Power%20Bi%20Dashboard.png.png)
 
 ---
 
