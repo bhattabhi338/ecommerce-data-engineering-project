@@ -95,16 +95,13 @@ ecommerce-data-engineering-project/
 
 ## 📊 Data Flow
 
-```
-![Data Flow Diagram](Images/Master_Workflow.png.png)
-
-```
+![Data Flow Diagram](Images/Master_Workflow.png)
 
 ---
 
 ## 📈 Key Metrics Generated
 
-![Data Flow Diagram](Images/Power%20Bi%20Dashboard.png.png)
+![Power BI Dashboard](Images/Power%20Bi%20Dashboard.png)
 
 ---
 
