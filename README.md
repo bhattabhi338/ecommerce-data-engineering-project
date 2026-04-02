@@ -3,11 +3,10 @@
 An end to end, production-ready data engineering pipeline for e-commerce analytics built on **Azure Databricks** and **Delta Lake**. This project demonstrates modern data architecture patterns, scalable transformations, and enterprise-grade data workflows.
 
 **Key Capabilities:**
-- Real-time and batch data processing
+- Batch data processing
 - Incremental data ingestion with SCD Type 2 support
 - Data quality validation and error handling
 - Workflow orchestration and scheduling
-- Cost-optimized transformations
 
 ---
 
